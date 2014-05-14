@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+.container {
+	background: url("../img/shattered.png");
+	margin: 0 auto;
+	width: 960px; /*940px*/
+	margin: auto;
+	
+}
+
+p,
+label {
+	font-size: 18px;
+	line-height: 1.25em; /* 20px */
+     font-family: 'Doppio One', sans-serif;
+
+
+}
+body {
+	background: #f5deba;
+}
+
+footer {
+	background: #8e643e;
+	color: #f5deba;
+	font-size: 12px;
+	text-align: center;
+	width: 960px;
+	margin: auto;
+	
+}
